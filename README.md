@@ -90,10 +90,6 @@ The rise of TikTok, YouTube Shorts and Instagram Reels has contributed to attent
 
 # Trying Out the Project
 Download the latest release [here](https://github.com/andrewsoonqn/nuscuties-distr/releases/).
-- For **Windows** users, download the `.exe` file.
-- For **MacOS** users, download the `.dmg` file.  
-
-Run the downloaded `.dmg` or `.exe` file for the app.
   
 ---
 
